@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* @import url('https://cdn.linearicons.com/free/1.0.0/icon-font.min.css'); */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 15px;
+  background-color: #F6F6F6;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+}
