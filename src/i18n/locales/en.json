@@ -7,6 +7,93 @@
     "hi": "Hi there!",
   "myName": "My name is Abdulla",
   "headerText1": "Unique websites,",
-  "headerText2": "that grow your business"
+  "headerText2": "that grow your business",
+  "card": {
+    "design_title": "Design that works",
+    "design_description": "I create websites that not only look stylish but also bring real benefits to business: increasing conversions, attracting customers, and delivering results.",
+    "certified_title": "Certified professional",
+    "certified_description": "Certified by Udemy, Yudaev.School, Django Academy. I continually upgrade my skills to offer clients only the most current and effective solutions.",
+    "design_dev_title": "Design and development in one place",
+    "design_dev_description": "I provide not only web design services but also the software part (markup, frontend, backend) for an additional fee. All in one place, without the extra hassle."
+  },
+  "text": "Innovative solutions in design, inspiring your business towards success",
+  "projects": {
+    "title": "Latest Work",
+    "names": {
+      "usat": "USAT",
+      "carshift": "Carshift",
+      "unicum": "Unicum Academy"
+    }
+  },
+  "arrow": "See More",
+  "clients": {
+    "title": "Clients",
+    "list": [
+      {
+        "name": "Django Academy",
+        "service": "Design & Development",
+        "year": 2024
+      },
+      {
+        "name": "Kamila Alimova",
+        "service": "Design & Development",
+        "year": 2025
+      },
+      {
+        "name": "Carshift",
+        "service": "Design & Development",
+        "year": 2025
+      },
+      {
+        "name": "Unicum Academy",
+        "service": "Design & Development",
+        "year": 2025
+      }
+    ],
+    "columns": {
+      "client": "Client",
+      "service": "Service",
+      "year": "Year"
+    }
+  },
+  "form": {
+    "title_line_1": "Got a project or idea?",
+    "title_line_2": "Let’s discuss it!",
+    "username": "What’s your name?",
+    "phone_number": "Your phone number",
+    "organization": "What’s your organization called?",
+    "services": "What services do you need?",
+    "message": "Your message",
+    "send": "Send",
+    "contact_info": "Contact Information",
+    "social": "Social Media",
+    "placeholder": {
+      "username": "Abdulla Akhmedov",
+      "phone_number": "+998 90",
+      "organization": "Abdulla Akhmedov ®",
+      "services": "Web design, Web development",
+      "message": "Hi Abdulla, could you help me with ..."
+    }
+  },
+  "faqTitle": "Answers to Frequently Asked Questions",
+  "faqSubtitle": "If you didn't find an answer to your question, contact us! We are always happy to help you understand the details and answer any additional questions.",
+  "questions": {
+    "1": {
+      "question": "How long does website design development take?",
+      "answer": "If you didn't find an answer to your question, contact us! We are always happy to help you understand the details and answer any additional questions."
+    },
+    "2": {
+      "question": "How much do you charge for a website?",
+      "answer": "If you didn't find an answer to your question, contact us! We are always happy to help you understand the details and answer any additional questions."
+    },
+    "3": {
+      "question": "Can you help with redesigning an existing website?",
+      "answer": "If you didn't find an answer to your question, contact us! We are always happy to help you understand the details and answer any additional questions."
+    },
+    "4": {
+      "question": "Can I maintain the website after development?",
+      "answer": "If you didn't find an answer to your question, contact us! We are always happy to help you understand the details and answer any additional questions."
+    }
   }
+}
   

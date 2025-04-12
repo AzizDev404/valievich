@@ -7,7 +7,93 @@
         "hi": "Salooom",
         "myName": "Mening ismim Abdulla",
         "headerText1": "Noyob veb-saytlar,",
-        "headerText2": "sizning biznesingizni rivojlantiradi"
-      
+        "headerText2": "sizning biznesingizni rivojlantiradi",
+        "card": {
+    "design_title": "Ishlaydigan dizayn",
+    "design_description": "Men nafaqat stilizatsiyalangan, balki biznesga haqiqiy foyda keltiradigan veb-saytlar yarataman: konversiyalarni oshiradi, mijozlarni jalb qiladi va natijaga erishishga yordam beradi.",
+    "certified_title": "Sertifikatlangan mutaxassis",
+    "certified_description": "Udemy, Yudaev.School, Django Academy kabi maktablardan sertifikatlanganman. Doimiy ravishda malakalarni oshirib boraman, shunda mijozlarga faqat zamonaviy va samarali yechimlar taklif qilaman.",
+    "design_dev_title": "Dizayn va ishlab chiqish bir joyda",
+    "design_dev_description": "Men nafaqat veb-dizayn bo'yicha xizmatlar taqdim etaman, balki dasturiy ta'minot (markazlashtirish, frontend, backend) bo'yicha ham xizmat ko'rsataman — qo'shimcha haq evaziga. Barchasi bir joyda, ortiqcha muammosiz."
+  },
+   "text": "Dizaynda innovatsion yechimlar, biznesingizni muvaffaqiyatga ilhomlantiradi",
+   "projects": {
+    "title": "So'nggi ishlar",
+    "names": {
+      "usat": "USAT",
+      "carshift": "Carshift",
+      "unicum": "Unicum Academy"
+    }
+  },
+  "arrow": "Batafsil",
+  "clients": {
+    "title": "Mijozlar",
+    "list": [
+      {
+        "name": "Django Akademiyasi",
+        "service": "Dizayn va Dasturlash",
+        "year": 2024
+      },
+      {
+        "name": "Kamila Alimova",
+        "service": "Dizayn va Dasturlash",
+        "year": 2025
+      },
+      {
+        "name": "Carshift",
+        "service": "Dizayn va Dasturlash",
+        "year": 2025
+      },
+      {
+        "name": "Unicum Akademiyasi",
+        "service": "Dizayn va Dasturlash",
+        "year": 2025
+      }
+    ],
+    "columns": {
+      "client": "Mijoz",
+      "service": "Xizmat",
+      "year": "Yil"
+    }
+  },
+  "form": {
+    "title_line_1": "Loyihangiz yoki g'oyangiz bormi?",
+    "title_line_2": "Keling, muhokama qilamiz!",
+    "username": "Ismingiz nima?",
+    "phone_number": "Telefon raqamingiz",
+    "organization": "Tashkilotingiz nomi qanday?",
+    "services": "Qanday xizmatlar kerak?",
+    "message": "Xabaringiz",
+    "send": "Yuborish",
+    "contact_info": "Aloqa ma'lumotlari",
+    "social": "Ijtimoiy tarmoqlar",
+    "placeholder": {
+      "username": "Abdulla Ahmedov",
+      "phone_number": "+998 90",
+      "organization": "Abdulla Ahmedov ®",
+      "services": "Veb dizayn, Veb dasturlash",
+      "message": "Salom Abdulla, siz menga yordam bera olasizmi ..."
+    }
+  },
+  "faqTitle": "Ko'p so'raladigan savollarga javoblar",
+  "faqSubtitle": "Agar savolingizga javob topa olmagan bo'lsangiz, biz bilan bog'laning! Biz sizga tafsilotlarni tushuntirishga va qo'shimcha savollarga javob berishga doimo xursandmiz.",
+  "questions": {
+    "1": {
+      "question": "Veb-sayt dizaynini ishlab chiqish qancha vaqt oladi?",
+      "answer": "Agar savolingizga javob topa olmagan bo'lsangiz, biz bilan bog'laning! Biz sizga tafsilotlarni tushuntirishga va qo'shimcha savollarga javob berishga doimo xursandmiz."
+    },
+    "2": {
+      "question": "Veb-sayt uchun qancha to'lov olasiz?",
+      "answer": "Agar savolingizga javob topa olmagan bo'lsangiz, biz bilan bog'laning! Biz sizga tafsilotlarni tushuntirishga va qo'shimcha savollarga javob berishga doimo xursandmiz."
+    },
+    "3": {
+      "question": "Mavjud veb-saytni qayta loyihalashda yordam bera olasizmi?",
+      "answer": "Agar savolingizga javob topa olmagan bo'lsangiz, biz bilan bog'laning! Biz sizga tafsilotlarni tushuntirishga va qo'shimcha savollarga javob berishga doimo xursandmiz."
+    },
+    "4": {
+      "question": "Ishlab chiqilgandan so'ng veb-saytni saqlab tura olamanmi?",
+      "answer": "Agar savolingizga javob topa olmagan bo'lsangiz, biz bilan bog'laning! Biz sizga tafsilotlarni tushuntirishga va qo'shimcha savollarga javob berishga doimo xursandmiz."
+    }
+  }
 }
   

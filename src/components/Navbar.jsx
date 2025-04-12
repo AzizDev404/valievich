@@ -83,7 +83,7 @@ const Navbar = () => {
   ]
 
   return (
-    <nav className="px-4 sm:px-6 md:px-10 py-4 relative z-[9999]">
+    <nav className="px-4 sm:px-6 md:px-10 py-4 relative z-[9999] p-[15px]">
       <div className="flex justify-between items-center flex-wrap gap-y-4">
         {/* Logo */}
         <img src={logo} alt="logo" className="w-[160px] sm:w-[200px] md:w-[235px]" />

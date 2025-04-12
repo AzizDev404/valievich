@@ -64,7 +64,7 @@ const Header = () => {
   }
 
   return (
-    <div className="my-10 sm:my-16 md:my-20">
+    <div className="my-10 sm:my-16 md:my-20 p-[15px]">
       <div
         style={{
           backgroundImage: `url(${Bg || "/placeholder.svg"})`,
